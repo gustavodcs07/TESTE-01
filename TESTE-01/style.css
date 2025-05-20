@@ -1,0 +1,30 @@
+div{
+    text-align: center;
+}
+
+
+h1, p{
+    text-align: center;
+}
+
+h1{
+    font-size: 100px;
+    color: aqua;
+}
+
+p{
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+.ponto{
+    list-style-type: none;
+    text-transform: capitalize;
+}
+
+.tamanho{
+    font-size: 25px;
+    list-style-position: inside;
+    text-transform: capitalize;
+}
